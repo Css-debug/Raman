@@ -1,0 +1,17 @@
+/* fonts */
+
+@font-face {
+  font-family: dseg7;
+  src: url(https://dl.dropboxusercontent.com/s/uibrorcmn559jhn/DSEG7ModernMini-Regular.ttf?dl=0)
+}
+@font-face {
+  font-family: gothambold;
+  src: url(https://dl.dropboxusercontent.com/s/1ri8jg25nf2l0vi/GothamBold.ttf?dl=0)
+}
+@font-face {
+  font-family: gothamlight;
+  src: url(https://dl.dropboxusercontent.com/s/ozvemhbpb59d2eq/GothamLight.ttf?dl=0)
+}
+* {
+	font-family: gothamlight;
+}
